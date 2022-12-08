@@ -5,3 +5,4 @@ pear
 strwaberry 
 blueberry
 pineapple
+mixed
