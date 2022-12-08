@@ -4,3 +4,4 @@ kiwi
 pear 
 strwaberry 
 blueberry
+pineapple
